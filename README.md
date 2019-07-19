@@ -6,7 +6,7 @@ HTML, CSS, Javascript, Bootstrap, Slick, Google Maps API, Openweather API, Fireb
 ## Project
 Blue Llama is a web app that offers the most unusual retreat experiences in New York City. Built for our first Columbia University Coding Bootcamp project. 
 
-https://somatthakali.github.io/Project_1/templates/index.html
+https://szewah.github.io/bluellama/templates/index.html
 
 ## Author Team
 - Josh Kraft

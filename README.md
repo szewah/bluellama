@@ -15,12 +15,7 @@ HTML, CSS, Javascript, Bootstrap, Slick, Google Maps API, Openweather API, Fireb
 - Aman Thakali
 
 ## Installation
-Download the file, then ..
-
-```
-npm install
-npm start
-```
+Download the file, open in VSC and run.
 
 ## Acknowledgement
 Thanks to the instructors and teaching assistants at Columbia Univeristy Coding Bootcamp.

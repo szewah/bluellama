@@ -5,7 +5,7 @@ Blue Llama is a partially completed web app that offers the most unusual retreat
 - Github page: https://szewah.github.io/bluellama/templates/index.html
 - Watch a video demonstration: https://vimeo.com/362692452
 
-<img width="1302" alt="bluellama" src="https://user-images.githubusercontent.com/32065713/65734343-6aa38000-e0a0-11e9-9108-c74e618ada24.png">
+<img width="400" alt="bluellama" src="https://user-images.githubusercontent.com/32065713/65776303-da9d1f00-e10f-11e9-9aac-7fd96e01815e.png">
 
 
 ## Built With
